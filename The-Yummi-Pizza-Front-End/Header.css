@@ -1,0 +1,24 @@
+.header{
+	overflow: hidden;
+    background-color: #ffffff;
+    padding: 15px 5px;
+    display: block;
+    /* width: 100%; */
+    margin-bottom: 9px;
+    font-size: 17px;
+    line-height: 10px;
+    height: 48px;
+    box-shadow: 0 8px 6px -6px #ccc;    
+}
+.menu-bar{
+	display: inline-flex;;
+	list-style: none;
+	color: #444;
+}
+.logo{
+    margin-left: 20px;
+    color: darkred;
+    font-size: 18px;
+    font-style: inherit;
+    font-family: fantasy;
+}
